@@ -24,8 +24,57 @@ Com uma bagagem de 10 anos como Engenheiro Marítimo e pós-graduações em Auto
 * **Bancos de Dados**: MySQL, PostgreSQL, SQL Server 
 * **Ferramentas e Infra**: Excel, GitHub, Docker, Kubernetes 
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 12px; background-color:#FFFFFF; padding: 15px; border-radius: 10px;"><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/></a><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a><a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original-wordmark.svg" alt="spark" width="40" height="40"/></a><a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" alt="kafka" width="40" height="40"/></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a><a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/></a><a href="https://databricks.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/databricks/E25A16" alt="databricks" width="40" height="40"/></a><a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" alt="airflow" width="40" height="40"/></a><a href="https://n8n.io/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/n8n/1A82E5" alt="n8n" width="40" height="40"/></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a><a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/></a><a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sqlserver" width="40" height="40"/></a></div>
-  
+<table style="width:100%; background-color:#FFFFFF; border-radius:10px;">
+  <tr>
+    <td style="padding:15px; text-align:center;">
+      <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin:6px;"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+      </a> 
+      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="margin:6px;"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+      </a> 
+      <a href="https://spark.apache.org/" target="_blank" rel="noreferrer" style="margin:6px;"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original-wordmark.svg" alt="spark" width="40" height="40"/> 
+      </a> 
+      <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer" style="margin:6px;"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" alt="kafka" width="40" height="40"/> 
+      </a> 
+      <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="margin:6px;"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+      </a>
+      <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer" style="margin:6px;"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> 
+      </a>
+      <a href="https://databricks.com/" target="_blank" rel="noreferrer" style="margin:6px;"> 
+        <img src="https://cdn.simpleicons.org/databricks/E25A16" alt="databricks" width="40" height="40"/> 
+      </a> 
+      <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer" style="margin:6px;"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" alt="airflow" width="40" height="40"/> 
+      </a> 
+      <a href="https://n8n.io/" target="_blank" rel="noreferrer" style="margin:6px;"> 
+          <img src="https://cdn.simpleicons.org/n8n/1A82E5" alt="n8n" width="40" height="40"/> 
+      </a> 
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="margin:6px;"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+      </a> 
+      <a href="https://kubernetes.io" target="_blank" rel="noreferrer" style="margin:6px;"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/> 
+      </a> 
+      <a href="https://github.com/" target="_blank" rel="noreferrer" style="margin:6px;"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> 
+      </a> 
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin:6px;"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+      </a> 
+      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="margin:6px;"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+      </a> 
+      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" style="margin:6px;"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sqlserver" width="40" height="40"/> 
+      </a>
+    </td>
+  </tr>
+</table>
 ---
 
 ### 🚀 Meus Projetos
